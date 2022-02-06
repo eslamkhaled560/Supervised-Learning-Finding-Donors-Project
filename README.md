@@ -1,3 +1,5 @@
 # Supervised Learning Finding Donors Project
  
-In this project I try to know if an idividual will donate for charity or not, using various classifiers. and choosing the best out of them after tuning.
+Employing several supervised algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census.
+Then choose the best candidate algorithm from preliminary results and further optimise this algorithm to best model the data.
+
